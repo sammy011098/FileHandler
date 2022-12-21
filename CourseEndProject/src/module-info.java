@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author soubmond
+ *
+ */
+module CourseEndProject {
+}
